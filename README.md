@@ -1,7 +1,7 @@
 # Projet-XML---Web-Services
 
 <h2>XML Tree</h2>
-![xmltree](https://user-images.githubusercontent.com/53410994/212562874-cc241382-61ab-4368-a0ce-2a57576530d9.jpg)
+![xmltree](/images/xmltree.jpg)
 
 <h3>Total Operations Credit/Debit</h3>
 ![totaloperations](https://user-images.githubusercontent.com/53410994/212562888-9c3267e4-e6b4-41fb-a5ee-0cde72ea78ea.jpg)
