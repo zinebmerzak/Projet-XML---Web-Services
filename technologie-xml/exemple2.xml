@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/zineb/Desktop/Projet%20XML%20-%20Web%20Services/releve.xsd" 
+    RIB="011112222333344445555666">
+    <dateReleve>2022-12-15</dateReleve>
+    <solde>75000</solde>
+    <operations dateDebut="2022-05-01" dateFin="2022-05-31">
+        <operation type="CREDIT" date="2022-05-09" montant="9450" description="Virement"/>
+        <operation type="DEBIT" date="2022-05-14" montant="600" description="Prelevement Assurance"/>
+        <operation type="CREDIT" date="2022-05-27" montant="7150" description="Virement"/>
+    </operations>
+    <operations dateDebut="2022-07-01" dateFin="2022-07-31">
+        <operation type="CREDIT" date="2022-07-18" montant="8500" description="Vers Especes"/>
+        <operation type="DEBIT" date="2022-07-24" montant="800" description="Cheque Guichet"/>
+    </operations>
+    <operations dateDebut="2022-11-01" dateFin="2022-11-30">
+        <operation type="CREDIT" date="2022-11-05" montant="10000" description="Virement"/>
+        <operation type="DEBIT" date="2022-11-20" montant="600" description="Prelevement Assurance"/>
+    </operations>
+</releve>
