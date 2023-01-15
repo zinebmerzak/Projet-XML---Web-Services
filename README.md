@@ -1,13 +1,13 @@
 # Projet-XML---Web-Services
 
 <h2>XML Tree</h2>
-![xmltree](https://user-images.githubusercontent.com/53410994/212562522-50cd1cfe-9736-40ef-8b1b-d849cb8a485b.jpg)
+![xmltree](https://user-images.githubusercontent.com/53410994/212562874-cc241382-61ab-4368-a0ce-2a57576530d9.jpg)
 
 <h3>Total Operations Credit/Debit</h3>
-![totaloperations](https://user-images.githubusercontent.com/53410994/212562528-105b86a0-f591-41da-b90a-9ba37bfeb8fa.jpg)
+![totaloperations](https://user-images.githubusercontent.com/53410994/212562888-9c3267e4-e6b4-41fb-a5ee-0cde72ea78ea.jpg)
 
 <h3>Total Operations Credit</h3>
-![operationscredit](https://user-images.githubusercontent.com/53410994/212562536-d866c1f5-e9bd-4f78-b5ff-c86a1c781b8f.jpg)
+![operationscredit](https://user-images.githubusercontent.com/53410994/212562898-0faff2fb-0b66-4979-a144-07dd5e90fc5f.jpg)
 
 <h3>Web Service Test SOAPUI</h3>
 
